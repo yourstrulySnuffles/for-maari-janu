@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>A Special Message</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            background-color: #f0f8ff;
+
+            display: flex;
+
+            justify-content: center;
+
+            align-items: center;
+
+            height: 100vh;
+
+            margin: 0;
+
+        }
+
+        .message-box {
+
+            background-color: #ffffff;
+
+            padding: 20px;
+
+            border-radius: 10px;
+
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+            max-width: 600px;
+
+            text-align: center;
+
+        }
+
+        h1 {
+
+            color: #333333;
+
+        }
+
+        p {
+
+            color: #555555;
+
+            font-size: 18px;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="message-box">
+
+        <h1>A Special Message for My Amazing Girlfriend</h1>
+
+        <p>Hey [Maari Janu],</p>
+
+        <p>I just wanted to take a moment to remind you how amazing you are. Your kindness, love, and support make every day brighter. You're not just a girlfriend; you're my best friend and my greatest source of happiness. Your kindness, love, and support make every day brighter. You're not just a girlfriend; you're my best friend and my greatest source of happiness. Thank you for being you and for everything you do. I love you with all my heart and soul , and I will forever do . For all of time , for eternity and beyond I’ll keep loving you. I love you so so much maari janu. My fine wine , my love, my cutieee, my sweetheart, my hottie, my love, my first kiss, my moon , my universe , my Sara, my Sally, my future hut partner, my future wifey, my future , I love you so so so much.</p>
+
+        <p>With all my love,<br>[Your Snuffles]</p>
+
+    </div>
+
+</body>
+
+</html>
